@@ -4,45 +4,45 @@ The style file: newapa.bst
 Database file #1: $HOME/endnote/phd_biblio.bib
 You can't pop an empty literal stack for entry Knudsen:2011fk
 while executing---line 1459 of file newapa.bst
-You've used 19 entries,
+You've used 21 entries,
             2708 wiz_defined-function locations,
-            724 strings with 8247 characters,
-and the built_in function-call counts, 8932 in all, are:
-= -- 801
-> -- 415
-< -- 7
-+ -- 156
-- -- 152
-* -- 910
-:= -- 1718
-add.period$ -- 59
-call.type$ -- 19
-change.case$ -- 164
-chr.to.int$ -- 19
-cite$ -- 19
-duplicate$ -- 300
-empty$ -- 576
-format.name$ -- 183
-if$ -- 1616
+            739 strings with 8480 characters,
+and the built_in function-call counts, 9713 in all, are:
+= -- 873
+> -- 435
+< -- 9
++ -- 162
+- -- 158
+* -- 983
+:= -- 1862
+add.period$ -- 65
+call.type$ -- 21
+change.case$ -- 178
+chr.to.int$ -- 21
+cite$ -- 21
+duplicate$ -- 331
+empty$ -- 637
+format.name$ -- 191
+if$ -- 1763
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 19
-newline$ -- 99
-num.names$ -- 78
-pop$ -- 104
+missing$ -- 21
+newline$ -- 109
+num.names$ -- 86
+pop$ -- 110
 preamble$ -- 1
-purify$ -- 183
+purify$ -- 199
 quote$ -- 0
-skip$ -- 201
+skip$ -- 223
 stack$ -- 0
-substring$ -- 620
-swap$ -- 69
+substring$ -- 688
+swap$ -- 76
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 114
+type$ -- 126
 warning$ -- 0
-while$ -- 78
+while$ -- 86
 width$ -- 0
-write$ -- 251
+write$ -- 277
 (There was 1 error message)
