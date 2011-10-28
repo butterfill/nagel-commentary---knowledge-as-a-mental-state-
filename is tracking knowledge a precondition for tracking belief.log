@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  28 OCT 2011 10:00
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  28 OCT 2011 11:33
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -583,16 +583,25 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 50.
 [1
 
-] [2] [3] (./is tracking knowledge a precondition for tracking belief.bbl
-[4] [5]) [6] (./is tracking knowledge a precondition for tracking belief.aux) )
- 
+]
+
+Package natbib Warning: Citation `ONeill:1996um' on page 2 undefined on input l
+ine 101.
+
+[2] [3] (./is tracking knowledge a precondition for tracking belief.bbl
+[4] [5])
+
+Package natbib Warning: There were undefined citations.
+
+[6] (./is tracking knowledge a precondition for tracking belief.aux) ) 
 Here is how much of TeX's memory you used:
- 10052 strings out of 494665
- 161545 string characters out of 3163744
- 267656 words of memory out of 3000000
- 13112 multiletter control sequences out of 15000+200000
- 8488 words of font info for 55 fonts, out of 3000000 for 9000
+ 10055 strings out of 494665
+ 161640 string characters out of 3163744
+ 263656 words of memory out of 3000000
+ 13114 multiletter control sequences out of 15000+200000
+ 8496 words of font info for 56 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,8n,48p,599b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,48p,599b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
+
 Output written on is tracking knowledge a precondition for tracking belief.pdf 
 (6 pages).
