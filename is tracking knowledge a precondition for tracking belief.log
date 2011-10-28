@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  21 OCT 2011 15:27
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  28 OCT 2011 10:00
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -420,10 +420,6 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmargin=\skip57
 \droptitle=\skip58
 ))
-\c@zf@famc@Charis SIL=\count122
-Package fontspec Info: Defining font family for 'Charis SIL' with options [Mapp
-ing=tex-text,Mapping=tex-text] on input line 18.
-
 (./is tracking knowledge a precondition for tracking belief.aux)
 \openout1 = `"is tracking knowledge a precondition for tracking belief.aux"'.
 
@@ -516,24 +512,25 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/CharisSIL(0)/m/n on input line 20.
+(Font)                  OT1/cmr/m/n --> EU1/SabonLTStd(0)/m/n on input line 20.
+
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `bold' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/CharisSIL(0)/m/n on input line 20.
-
+(Font)                  OT1/cmr/bx/n --> EU1/SabonLTStd(0)/m/n on input line 20
+.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/m/n on input 
-line 20.
+(Font)                  EU1/SabonLTStd(0)/m/n --> EU1/SabonLTStd(0)/m/n on inpu
+t line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/m/n on input 
-line 20.
+(Font)                  EU1/SabonLTStd(0)/m/n --> EU1/SabonLTStd(0)/m/n on inpu
+t line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/CharisSIL(0)/m/it on input line 20
-.
+(Font)                  OT1/cmr/m/it --> EU1/SabonLTStd(0)/m/it on input line 2
+0.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/CharisSIL(0)/bx/n on input line 20
-.
+(Font)                  OT1/cmr/bx/n --> EU1/SabonLTStd(0)/bx/n on input line 2
+0.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> EU1/Delicious(0)/m/n on input line 20.
 
@@ -541,14 +538,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/m/n on input line 20
 .
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/bx/n on input
- line 20.
+(Font)                  EU1/SabonLTStd(0)/m/n --> EU1/SabonLTStd(0)/bx/n on inp
+ut line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/CharisSIL(0)/m/n --> EU1/CharisSIL(0)/bx/n on input
- line 20.
+(Font)                  EU1/SabonLTStd(0)/m/n --> EU1/SabonLTStd(0)/bx/n on inp
+ut line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/CharisSIL(0)/bx/it on input line 
-20.
+(Font)                  OT1/cmr/bx/it --> EU1/SabonLTStd(0)/bx/it on input line
+ 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/Delicious(0)/bx/n on input line 2
 0.
@@ -562,7 +559,7 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 (/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count123
+\c@section@level=\count122
 LaTeX Info: Redefining \Ref on input line 396.
 )
 LaTeX Info: Redefining \ref on input line 20.
@@ -580,20 +577,22 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 
 
 Package hyperref Warning: No destination for bookmark of \addcontentsline,
-(hyperref)                destination is added on input line 43.
+(hyperref)                destination is added on input line 45.
 
-No file "is tracking knowledge a precondition for tracking belief".bbl.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 50.
 [1
 
-] (./is tracking knowledge a precondition for tracking belief.aux) ) 
+] [2] [3] (./is tracking knowledge a precondition for tracking belief.bbl
+[4] [5]) [6] (./is tracking knowledge a precondition for tracking belief.aux) )
+ 
 Here is how much of TeX's memory you used:
- 10002 strings out of 494665
- 160625 string characters out of 3163744
- 256714 words of memory out of 3000000
- 13059 multiletter control sequences out of 15000+200000
- 7383 words of font info for 55 fonts, out of 3000000 for 9000
+ 10052 strings out of 494665
+ 161545 string characters out of 3163744
+ 267656 words of memory out of 3000000
+ 13112 multiletter control sequences out of 15000+200000
+ 8488 words of font info for 55 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,6n,48p,599b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
-
+ 41i,8n,48p,599b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
 Output written on is tracking knowledge a precondition for tracking belief.pdf 
-(1 page).
+(6 pages).

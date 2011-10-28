@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: is tracking knowledge a precondition for tracking belief.aux
+The style file: newapa.bst
+Database file #1: $HOME/endnote/phd_biblio.bib
+You can't pop an empty literal stack for entry Knudsen:2011fk
+while executing---line 1459 of file newapa.bst
+You've used 19 entries,
+            2708 wiz_defined-function locations,
+            724 strings with 8247 characters,
+and the built_in function-call counts, 8932 in all, are:
+= -- 801
+> -- 415
+< -- 7
++ -- 156
+- -- 152
+* -- 910
+:= -- 1718
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 164
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 300
+empty$ -- 576
+format.name$ -- 183
+if$ -- 1616
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 19
+newline$ -- 99
+num.names$ -- 78
+pop$ -- 104
+preamble$ -- 1
+purify$ -- 183
+quote$ -- 0
+skip$ -- 201
+stack$ -- 0
+substring$ -- 620
+swap$ -- 69
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 114
+warning$ -- 0
+while$ -- 78
+width$ -- 0
+write$ -- 251
+(There was 1 error message)
