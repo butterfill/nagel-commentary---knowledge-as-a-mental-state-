@@ -8,45 +8,45 @@ You can't pop an empty literal stack for entry Knudsen:2011fk
 while executing---line 1459 of file newapa.bst
 You can't pop an empty literal stack for entry Robinson:2010uq
 while executing---line 1459 of file newapa.bst
-You've used 44 entries,
+You've used 55 entries,
             2708 wiz_defined-function locations,
-            869 strings with 12006 characters,
-and the built_in function-call counts, 19569 in all, are:
-= -- 1768
-> -- 835
-< -- 29
-+ -- 304
-- -- 295
-* -- 1908
-:= -- 3730
-add.period$ -- 137
-call.type$ -- 44
-change.case$ -- 354
-chr.to.int$ -- 43
-cite$ -- 44
-duplicate$ -- 711
-empty$ -- 1309
-format.name$ -- 369
-if$ -- 3581
+            940 strings with 13848 characters,
+and the built_in function-call counts, 24642 in all, are:
+= -- 2228
+> -- 1055
+< -- 38
++ -- 386
+- -- 373
+* -- 2405
+:= -- 4689
+add.period$ -- 172
+call.type$ -- 55
+change.case$ -- 445
+chr.to.int$ -- 54
+cite$ -- 55
+duplicate$ -- 898
+empty$ -- 1649
+format.name$ -- 468
+if$ -- 4518
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 49
-newline$ -- 224
-num.names$ -- 184
-pop$ -- 229
+missing$ -- 60
+newline$ -- 279
+num.names$ -- 232
+pop$ -- 286
 preamble$ -- 1
-purify$ -- 403
+purify$ -- 505
 quote$ -- 0
-skip$ -- 501
+skip$ -- 630
 stack$ -- 0
-substring$ -- 1326
-swap$ -- 170
-text.length$ -- 2
+substring$ -- 1661
+swap$ -- 217
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 254
+type$ -- 320
 warning$ -- 0
-while$ -- 182
+while$ -- 231
 width$ -- 0
-write$ -- 581
+write$ -- 727
 (There were 3 error messages)
