@@ -1,0 +1,73 @@
+\footnote{
+According to Nagel,
+`According to the view currently standard in philosophy,
+in attributing knowledge of a proposition ... we attribute the mental state of belief' (p.\ 11).
+}
+
+
+
+
+
+
+
+Nagel seems to rely on facts about what knowledge being very closely bound up with facts about how human adults ordinarily 
+think about it.
+At one point she writes:
+%
+\begin{quote}
+`According to the view that is currently standard in philosophy,
+in attributing knowledge [...]
+we attribute the mental state of belief'
+(p.\ 11)
+\end{quote}
+%
+There are two different ways of interpreting this claim.
+On one interpretation, it is a claim about what mindreading involves.
+
+
+
+
+
+
+
+Nagel suggests that
+defending the claim about recognition is useful, or perhaps even necessary,
+for defending the 
+
+links 
+the claim 
+about belief recognition depending on knowledge recognition
+to the claim that 
+knowledge is a mental state in its own right
+(rather than being reducible to belief, truth and other ingredients).
+
+
+
+
+In what follows I 
+argue, contra  Nagel, that
+the currently available evidence fails on balance to support either view.
+This will require considering a broader range of findings than Nagel discusses.
+Before doing this, 
+I first 
+
+I also offer an alternative view,
+
+
+\section{Introduction}
+Nagel links 
+the claim that knowledge is a mental state in its own right
+(rather than being reducible to belief, truth and other ingredients)
+with the claim that
+`the capacity to recognize belief depends on some prior mastery of the concept of knowledge' (p.\ 14).
+In what follows I shall object
+both to the link
+and to Nagel's argument for the second claim.
+
+
+Nagel connects questions about 
+what knowledge is
+with research on 
+infants', adults' and nonhumans' abilities to track knowledge and ignorance.
+
+
