@@ -71,3 +71,80 @@ with research on
 infants', adults' and nonhumans' abilities to track knowledge and ignorance.
 
 
+
+ 
+ 
+
+\section{Distinctions}
+
+The answer may depend on what is involved in having a capacity  to recognize belief and a prior mastery of the concept of knowledge.%
+\footnote{
+Nagel also puts what I take to be the same thesis by saying that `an ability to track what others would know seems to be the precondition, rather than the product, of an ability to track what they would believe' (p.\ 3).
+It may be important to distinguish mastery of a concept of knowledge from abilities to track what others know.
+}
+So before addressing this question directly it will be helpful to have some distinctions in place.
+The first distinction is between theory of mind abilities and theory of mind cognition.
+A theory of mind \textit{ability} is an ability that exists in part because exercising it brings benefits obtaining which depends on exploiting or influencing facts about others’ perception, knowledge, belief, desire or any other psychological states.  
+Theory of mind \textit{cognition}  involves representing psychological states.
+This distinction matters because not all theory of mind abilities involve theory of mind cognition.
+To illustrate, some animals are able to modify their behaviour  in the presence of eyes directed at them \citep[e.g.][]{ernest-jones_effects_2011}.
+It is plausible that this ability exists in part because it enables individuals to influence what others perceive.
+But it doesn't follow, of course, that exercising this ability involves representing others' perceptions; for all we have said, the ability might depend on representing eyes and not perceptions.  
+
+
+
+I shall interpret talk about \textit{tracking} mental states in terms of theory of mind abilities.
+To track what another knows is to exercise theory of mind abilities concerning knowledge; this may but need not involve representing the other's knowledge.
+By contrast, I suppose that \textit{recognising} and \textit{ascribing} knowledge does involve representing knowledge states.
+
+
+
+
+Nagel's core claim concerns theory of mind cognition, not only theory of mind abilities. 
+The issue concerns representations of knowledge and belief, not merely abilities to track them.%
+
+
+
+
+Talk about tracking mental states is a natural 
+
+***
+
+
+
+
+
+
+
+
+\section{***}
+Arguments for the claim that knowledge is a mental state have been rejected by philosophers on several quite different grounds.
+
+What do human adults understand of knowledge?
+Consider two claims about the nature of knowledge.
+
+
+
+Nagel argues that they treat knowledge as explanatory of action, that they treat it as a state (rather than, say, as an ability), and that they treat it as a mental state (rather than, say, as a bodily state).
+ 
+
+Is `the identification of knowledge as a mental state ...\ one of the central principles of our [human adults'] intuitive mindreading system?'
+
+
+
+
+\section{Tracking vs.\ Representing}
+
+
+
+
+In footnote 25 Nagel writes:
+%
+\begin{quote}
+`By observing that chimpanzees have some capacity to recognize the state of knowledge, one need not thereby credit chimpanzees with any very sophisticated understanding of the nature of knowledge'
+\end{quote}
+%
+I want to distinguish two issues.
+One is whether 
+
+
