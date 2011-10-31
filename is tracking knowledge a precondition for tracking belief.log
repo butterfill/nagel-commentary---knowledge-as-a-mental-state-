@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  31 OCT 2011 01:26
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  31 OCT 2011 01:31
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -601,10 +601,10 @@ LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
 LaTeX Font Info:    Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
- 10207 strings out of 494665
- 164997 string characters out of 3163744
+ 10204 strings out of 494665
+ 164898 string characters out of 3163744
  264656 words of memory out of 3000000
- 13265 multiletter control sequences out of 15000+200000
+ 13262 multiletter control sequences out of 15000+200000
  8496 words of font info for 56 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
  41i,8n,48p,599b,499s stack positions out of 5000i,500n,10000p,200000b,50000s
