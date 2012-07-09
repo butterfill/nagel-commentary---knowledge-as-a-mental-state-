@@ -1,0 +1,12 @@
+What Does Knowledge Explain?  Commentary on Jennifer Nagel, 'Knowledge as a Mental State'
+
+by
+Stephen A. Butterfill
+
+ABSTRACT:  Knowledge is a mental state: Nagel may be right about this  but wrong to suppose that knowledge is prior to belief in the sense that being able to recognize belief somehow depends on having a concept of knowledge.  This commentary identifies objections  to Nagel's arguments for priority.  Some of these objections arise from Nagel's selective use of developmental evidence: additional findings reveal a more complex (and more interesting) picture of how abilities to recognize and track knowledge and belief develop.  If Nagel's arguments for priority fail, why hold that knowledge is a mental state?  An alternative approach might draw on arguments that intention is a mental state.  Knowledge and intention play complementary and interlocking roles in planning and practical reasoning.  Perhaps it is these roles, not claims about priority, which complicate attempts to reduce either knowledge or intention to belief or desire or some combination of these.
+
+KEYWORDS: knowledge,  mindreading, belief, intention, development, Bratman, Hawthorne
+
+
+****Rejected: use 'objective voice'
+Knowledge is mental state: so says Nagel and I agree.  But Nagel argues for this claim on the basis of a further claim about priority, namely that the concept of knowledge is in some sense prior to the concept of belief.  I object to Nagel's arguments for the priority claim.  This involves introducing additional developmental findings concerning mindreading.  To show that knowledge is a mental state may require a different approach.  I suggest drawing on arguments that intention is a mental state.  Knowledge and intention play complementary and interlocking roles in planning and practical reasoning.  It is these roles, not claims about priority, which complicate attempts to reduce either knowledge or intention to belief or desire or some combination of these.
